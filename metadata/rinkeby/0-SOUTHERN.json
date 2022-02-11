@@ -1,0 +1,15 @@
+{
+    "name": "SOUTHERN",
+    "description": "An adorable SOUTHERN maasai girl",
+    "image": "https://ipfs.io/ipfs/Qme25KUHexhW49Vkx95qDboxgTBV4bSZzLxEfX9DHt6PpS?filename=southern.png",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 100
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        }
+    ]
+}

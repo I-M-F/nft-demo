@@ -1,0 +1,1 @@
+With the help of the guide from Patric Collins, I'm able to know how to make the erc-721 NFTs from scratch. What I learned is... how to code NFTs. OpenZeppelin ERC721. Decentralized Oracles. Brownie Suite. Creating Metadata & IPFS. Pinata. Viewing on Opensea
